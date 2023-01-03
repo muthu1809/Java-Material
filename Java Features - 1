@@ -1,0 +1,59 @@
+Java is Simple:
+
+General Purpose Languages: C, C++:
+Java Syntax is derived from C and C++:
+;
+{   }
+
+C# - Language
+Framework: Collection of programs
+Collections framework
+Bootstrap - CSS Framework:
+
+
+Java is Dynamic:
+Java is used anywhere - Standalone Applications, Web Applications,  Mobile App
+
+Java is Robust:
+Java is robust because it has strong memory management system.Java has very good Error Handling Mechanism.  This Error Handling Mechanism is known as 'Exception Handling' in Java. There is no pointers concept in Java.
+
+In C, C++, we have pointers.  As we have Pointers concept, we couldn't use C and C++ for Web Application Development.  Main reason for this, Pointers may lead to Security issues.
+
+
+&, *
+
+Java is Distributed:
+Support for TCP, UDP, and basic Socket communication is excellent
+
+Transmission Control Protocol [TCP]
+
+Java is  Portable:
+
+We can write a program and run it on all of the platforms
+
+Compilation:
+Compilation is converting .java programs into .class files.  These .class files are known as Byte Code.
+
+This .class file[Byte Code] is common for all platforms.
+
+Platform: OS + Processor:
+OS: 32 Bit / 64 Bit OS:
+Processor: Speed:
+
+Binary Digits: Bit:
+
+References: 
+https://learnpainless.com/java/start/why-java-is-robust-programming-language/
+
+https://www.codingbytes.com/why-java-is-a-robust-programming-language/
+
+
+
+
+
+
+
+
+
+
+
