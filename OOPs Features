@@ -1,0 +1,98 @@
+Object Oriented Programming Language:
+
+paradigm: பேரடைம் Idea
+
+Procedure Oriented Programming
+Functional Programming
+Modular Programming
+
+Julia, Ruby, Scala, R
+
+Object-oriented programming (OOP) is a programming paradigm based on the concept of "objects", which can contain data and code. The data is in the form of fields (often known as attributes or properties), and the code is in the form of procedures (often known as methods).
+
+Object-oriented programming (OOP) is a programming paradigm based on the concept of "objects".
+
+Objects can contain data and code.
+
+Data is known as Fields.(often known as attributes or properties)
+
+data - தரவு: information:
+
+the code is in the form of procedures. Procedures are actions/ Functions / Methods /Sub routines / Behaviours.
+
+Object - Data and Code
+Eg.
+
+Object is combination of States and Behaviours
+                        [Data]      [Methods]
+
+Object is real time  entity.
+
+Object is Physical entity.
+
+Java is multiparadigm programming language.
+
+
+Unix - Closed Source
+Linux - Open Source
+துருவங்கள்:
+
+class:
+
+objects are entities that combine state (i.e., data), behavior (i.e., procedures, or methods)
+
+class is a template or blueprint.
+class is a logical entity.
+class is a container.
+class contains objects. We cant create Objects without class.
+Features:
+Object:
+Behaviours:
+Fields:
+class
+constructors:
+
+Inheritance
+Polymorphism
+Encapsulation
+Abstraction
+
+Encapsulation:
+Encapsulation is an important property in Object Oriented Programming. Encapsulation means Protection. Encapsulation binds fiends(data) and methods together into a single unit.
+We can protect Objects and classes through Encapsulation.  We can protect behaviours and fields.
+
+Encapsulation is binding fields (object state) and methods (behavior) together as a single unit.
+
+Polymorphism:
+‘poly’ means ‘many’ and ‘morph’ points at ‘forms’;
+Behaviours will take many forms.
+
+composing music
+
+Runtime Polymorphism:
+Based on whom, the action is done.
+Who does the action [Who - Parent - Child]
+
+Compile Time Polymorphism:
+Based on inputs, how action is done.
+eat - chicken biryani
+eat - upma
+
+ride bike - bullet
+          - tvs50
+
+Inheritance:
+
+inheritance in OOPs is an important concept and it is known as one of the four pillars of OOPs where it is the process of passing on characteristics from one parent to a child.
+
+inheritance in OOPs is an important concept. It is known as one of the four pillars in OOPs. It is the process of passing on characteristics from one parent to a child.
+
+For example:
+mobile -->  call, sms , portable
+smartphone --> call, sms , portable, browse, touch, video, take photo, games
+
+Abstraction: Data Hiding:
+ it helps to hide the complexity from the user and helps to show only the important service to the user.
+
+Let’s taken a list of examples, ATM functionality, Phone calls, Banking functionality provided to users, and many more. We do not know the internal implementation of how they are working, but we are only supposed to use those services provided by them to avoid all the complexity. 
+
