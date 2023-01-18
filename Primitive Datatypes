@@ -1,0 +1,204 @@
+date is 18.
+
+date = 18;
+
+Reference Variable
+value:
+= --> Assignment Operator
+
+actor = "vijay";
+actor = "ajith";
+
+my_Sons_Age = 8;
+my_Bike_Number = 9697;
+pincode = 600042;
+
+Word - வார்த்தை
+Numbers -
+
+Java is very good in Memory Management:
+
+byte: 8 bit:
+bit: binary digits: 0,1s
+256 - 1 - 256 --> 0 - 255
+
+-128 to -1 0 1 to 127
+
+byte mark = 98;
+mark = 97;
+
+short physics = 190;
+
+Keywords - Reserved Words:
+
+Integer --> 4301520896
+int
+
+Whole Numbers:
+byte - 1 byte
+short - 2 bytes
+int - 4 bytes
+long - 8 bytes
+
+Decimal Points: Floating Point:
+float - 4 bytes
+float pi = 3.14f;
+double - 8 bytes:
+double num = 1.234567890123;
+
+
+C --> Assembly Language:
+
+Let us C - Yashwant Kanitkar - bpb
+
+mp3 --> 4 MB: 4000 KB: 4000000 Bytes:
+
+4000000 Bytes --> 10 Lakh int values:
+
+
+
+boolean: true or false: 1 bit:
+boolean leave = true;
+boolean leave = false;
+
+character:
+char - 4 bytes:
+char letter = 'h';
+
+-32768 to -1 0 1 to 32768
+
+C, C++, Java, C#
+
+Python, JavaScript: No Character
+
+Primitive Datatypes:
+byte, short, int, long, float, double, boolean, char:
+
+Memory Size:
+Type of Data:
+int -- float:
+4       4
+
+Primitive - Basic -->
+Non-primitive Datatypes: No Specified Range:
+
+Primitive Datatypes: Specified Range:
+
+String - வார்த்தை:
+String address = "12, Sivan kovil Street, Pazhavoor,
+                    Trichy, Tamil Nadu";
+
+C, C++, C#, Java: Character:
+Python, Javascript: string
+
+When we declare a variable for the first time, we should definitely mention datatypes in front of them.
+
+Eg.
+int mark; // declaration
+
+int mark = 98; // declaration and assignment in single line
+
+int mark; // declaration
+mark = 98; // assignment
+
+In a program, When We declare a variable for the first time, We should mention the datatype in front of them.
+
+When we declare a variable for the first time, we should definitely mention datatypes in front of them.
+
+
+In a program --> Local Variable, Global Variable[Field]
+
+declare, define, call, invoke
+
+class Second
+{
+public static void main(String[] args)
+{
+int mark = 65;
+String name = "Siva";
+System.out.println(name);
+System.out.println(mark);
+}
+
+}
+
+ctrl+s --> Second.java
+
+ctrl+alt+t: Terminal:
+
+cd Music/B29
+
+To Compile: javac Second.java
+
+To Execute: java Second
+
+ctrl+s: javac:
+
+C, C++, C#, Java:
+
+int tamil, english, maths;
+
+int tamil = 98, english= 97, maths = 100;
+
+python:
+tamil, english, maths = 98, 97, 100;
+
+Java is statically typed programming language:
+Datatypes are explicitly mentioned.
+Eg. C, C++, C#, Java
+
+Dynamically Typed Programming Languages:
+Eg. Python, JavaScript:
+
+Duck Typing Language:
+mark = 98
+float mark = 97.5
+
+1) Object
+    - Object Creation
+
+Keywords: new
+
+2) Methods
+    - Method Calling
+    - Method Definition
+    - Method Arguments
+    - Method return values
+
+Keywords: void, return
+
+3) Variables:
+    - Field [Global Variables]
+    - Local Variables
+
+4) static:
+    - static
+    - non-static [instance]
+
+
+1) Object
+    physical entity
+    collection of states and behaviours
+    real time entity
+    Eg. Keyboard, Computer, Pen, Pencil
+
+class: logical entity: template:
+
+class Laptop
+{
+public static void main(String[] args)
+{
+Laptop onButton = new Laptop();
+
+}
+
+}
+
+Datatypes:
+2 Category: Primitive  - Non-primitive
+statically typed:
+
+JIT Compiler: Interpreter:
+
+
+NLP: English: Google: Facebook:
