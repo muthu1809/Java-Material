@@ -1,0 +1,115 @@
+Looping Programs:
+1) 1   1   1   1   1
+2) 1   2   3   4   5
+3) 1   3   5   7   9
+4) 3   6   9   12  15
+5) Multiples of 3 and 5
+6) Multiples of 3 or 5
+7) Divisors of given number
+8) Count of Divisors of given number
+9) Prime Number
+10) Reverse Printing a number
+11) Count of Digits
+12) Sum of Digits
+13) Reverse the number
+14) Palindrome
+15) Armstrong Number
+16) Neon Number - HW
+17) Strong Number - HW
+18) Addition of first n numbers
+19) Factorial
+20) Greatest Common Divisor
+21) Least Common Multiple
+22) 2 power 5
+23) Decimal To Binary
+24) Binary to Decimal
+25) Fibonacci Series
+26) Swapping two numbers
+27) Swapping without third variable
+28) Fibonacci without using third variable
+29) Odd Positions - Even Positions
+30) First 10 Prime Numbers
+31) Sum of Digits until it becomes single digit
+32) Printing 5! 4! 3! 2! 1!
+33) Printing 1*10 2*9 3*8 4*7 5*6
+34) Printing 1 11 121
+35) Printing 1 8 27 64
+36) Printing 1 4 9 16 25 36 49 64 81 100 - HW
+37) Printing 1 4 27 256
+38) Square Root of a Number
+39) Spy Number - HW
+40) Prime no.s in a fibonacci series
+
+Array Programs
+1) Array Declaration
+2) Printing Array
+3) Printing in reverse order
+4) Linear Search
+5) Finding index of given number
+6) Removing given number from an array
+7) Placing given number in last index of given array
+8) how many times a given element is present
+9) Finding biggest no. in given array
+10) Finding smallest no. in given array
+11) Finding first two biggest numbers in a given array
+12) Finding first two smallest numbers in a given array
+13) Finding count of duplicate elements in a given array
+14) Finding addition of odd index numbers in a given array
+15) Moving all elements towards left in a given array
+16) Moving all elements towards left twice in a given array
+17) Moving all elements towards right in a given array
+18) Moving all elements towards right twice in a given array
+19) Copying the given array to another array in reverse order
+20) Addition of two integer arrays
+20.1) Concatenation of two integer arrays
+21) Finding only negative numbers in given array
+22) Copying only the negative numbers in given array - to another array
+23) Copying only the odd indexed numbers in given array - to another array
+24) Printing values between adjacent two elements in a given array
+25) Removing all the duplicate elements in a given array
+
+
+1. Program to find first repeated element in an array
+2. Program to find first non repeated element in an array
+3. Sum of 2 elements in a single array corresponding to 10
+4. Divide all the elements in an array by 3 and store it in the same array
+5. Multiply any two elements in an array and check if it corresponds to 20
+6. Split an array- one to store only odd numbers and another to store only even numbers
+7. Check if any elements in an array are prime numbers
+8. Check if any elements in an array are perfect numbers - HW
+9. Print odd elements present in even index of an array
+10. Print even elements present in odd index of any array
+
+Sorting: Bubble Sort
+Searching: Binary Search
+
+Multi Dimensional Array:
+1) Matrix Addition
+2) Matrix Multiplication
+
+
+1) Pattern Programs - 40 programs minimum
+2) String Introduction
+3) String class important methods
+4) count of one character in a given String
+5) Count of vowels in a given String
+6) Printing only the numbers present in a String
+7) Count of each character in a given String - HW
+8) Finding duplicate characters in a given String - HW
+9) count of total number of occurrences of a given char. in a string without using loop
+10) Reversing a given String
+11) Palindrome
+12) Convert String to charArray
+13) Convert String to Integer
+14) Convert Char. Array to String
+15) String is immutable
+16) String comparison
+17) Count of words in given String
+18) Change only the first letter of a given String to upper case
+19) Change upper case to Lower case in a given String
+20) Two Strings are anagram or not
+21) Find first non repeated character of a given String - HW
+22) Find the char. which occurred the highest times in a given String - HW
+23) Sort elements in Dictionary Order (Lexicographical)
+24) Find last non repeated character in a given String
+25) finding if adjacent characters are same and printing only those in a given string
