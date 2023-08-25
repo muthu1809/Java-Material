@@ -20,7 +20,8 @@ Looping Programs:
 19) Factorial
 20) Greatest Common Divisor
 21) Least Common Multiple
-22) 2 power 5
+22) Find Power of a given no. (Eg. 2 power 5)
+  22.1) Raising a number to a larger power (Eg. 2 Power 23) - Short way
 23) Decimal To Binary
 24) Binary to Decimal
 25) Fibonacci Series
@@ -67,6 +68,7 @@ Array Programs
 23) Copying only the odd indexed numbers in given array - to another array
 24) Printing values between adjacent two elements in a given array
 25) Removing all the duplicate elements in a given array
+26) Removal of Duplicates from an ordered Array.
 
 
 1. Program to find first repeated element in an array
